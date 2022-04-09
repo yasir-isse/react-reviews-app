@@ -1,4 +1,4 @@
-## React Tours APP
+## React Reviews APP
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 [![npm version](https://badge.fury.io/js/react.svg)](https://badge.fury.io/js/react)
