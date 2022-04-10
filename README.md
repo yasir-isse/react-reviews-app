@@ -27,7 +27,7 @@ Here is a screenshot of the component.
 - Created a Carousel component for cycling through elements and displaying data.
 - Hands-on experience using:
    - Conditional Rendering
-   - React { useState } Hooks 
+   - React { useState } Hook
 
 
 
